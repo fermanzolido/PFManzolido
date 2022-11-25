@@ -511,7 +511,7 @@ ul.btn li:last-child {
 }
 
 .read_more:hover {
-  background: #51fe44;
+  background: #474aff;
   color: #fff;
   transition: ease-in all 0.5s;
 }
@@ -860,7 +860,7 @@ ul.social_icon li a {
 }
 
 ul.social_icon li a:hover {
-  background-color: #00ff00;
+  background-color: #3b39bce5;
   color: #fff;
 }
 

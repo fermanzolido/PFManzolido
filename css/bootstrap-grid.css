@@ -27,7 +27,7 @@ html {
   margin-left: auto;
 }
 
-@media (min-width: 576px) {
+@media (min-width: 480px) {
   .container {
     max-width: 540px;
   }
@@ -298,7 +298,7 @@ html {
   margin-left: 91.666667%;
 }
 
-@media (min-width: 576px) {
+@media (min-width: 480px) {
   .col-sm {
     -ms-flex-preferred-size: 0;
     flex-basis: 0;
@@ -1024,7 +1024,7 @@ html {
   display: inline-flex !important;
 }
 
-@media (min-width: 576px) {
+@media (min-width: 480px) {
   .d-sm-none {
     display: none !important;
   }
@@ -1354,7 +1354,7 @@ html {
   align-self: stretch !important;
 }
 
-@media (min-width: 576px) {
+@media (min-width: 480px) {
   .flex-sm-row {
     -ms-flex-direction: row !important;
     flex-direction: row !important;
